@@ -1,2 +1,2 @@
 # doin-go
-golang exercism problems
+golang stuff
