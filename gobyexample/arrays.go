@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	var a [4]int
-	fmt.Println("arr", a)
+	fmt.Println("arrr", a)
 
 	a[3] = 100
 	fmt.Println("arr", a)
